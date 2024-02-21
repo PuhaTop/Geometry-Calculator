@@ -1,0 +1,23 @@
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\bin\Debug\net6.0\Geometry.Calculator.Core.deps.json
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\bin\Debug\net6.0\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\bin\Debug\net6.0\Geometry.Calculator.Core.pdb
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.AssemblyInfoInputs.cache
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.AssemblyInfo.cs
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\refint\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.pdb
+C:\Users\PuhaTop\Desktop\Geometry Calculator\Geometry.Calculator\Geometry.Calculator.Core\obj\Debug\net6.0\ref\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\bin\Debug\net6.0\Geometry.Calculator.Core.deps.json
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\bin\Debug\net6.0\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\bin\Debug\net6.0\Geometry.Calculator.Core.pdb
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.AssemblyInfoInputs.cache
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.AssemblyInfo.cs
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.sourcelink.json
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\refint\Geometry.Calculator.Core.dll
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\Geometry.Calculator.Core.pdb
+C:\Users\PuhaTop\Desktop\Geometry-Calculator\src\Geometry.Calculator.Core\obj\Debug\net6.0\ref\Geometry.Calculator.Core.dll

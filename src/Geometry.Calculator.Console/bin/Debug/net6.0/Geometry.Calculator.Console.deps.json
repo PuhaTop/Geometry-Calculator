@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Geometry.Calculator.Console/1.0.0": {
+        "dependencies": {
+          "Geometry.Calculator.Core": "1.0.0"
+        },
+        "runtime": {
+          "Geometry.Calculator.Console.dll": {}
+        }
+      },
+      "Geometry.Calculator.Core/1.0.0": {
+        "runtime": {
+          "Geometry.Calculator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geometry.Calculator.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometry.Calculator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
